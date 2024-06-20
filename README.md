@@ -6,6 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+https://chatgpt.com/share/ba22e8f6-32da-4b59-9ed6-515de3abf992
+
 <!---
 oxkunle/oxkunle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
